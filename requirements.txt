@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib
+nltk
+streamlit
+pip==24.0
+scikit-learn
